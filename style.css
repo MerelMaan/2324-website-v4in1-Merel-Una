@@ -28,3 +28,10 @@ article.homepage {
    }
 
 
+class.cafe {
+   width:898px;
+   margin: 50px;
+   border: 2px;
+   border-color: #ace4b0
+}
+
