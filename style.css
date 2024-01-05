@@ -92,3 +92,14 @@ nav {
 nav :hover {
    color: #f4dddb;
 }
+
+footer {
+   width: 996px;
+   height: 70px;
+   background-color: #ace4b0;
+   border: 2px solid;
+   border-color: #ffffff;
+   font-family: Times New Roman;
+   font-size: 15pt;
+   color: #1f001f
+}
