@@ -99,10 +99,10 @@ nav :hover {
 }
 
 footer {
-   width: 950px;
+   width: 970px;
    height: 70px;
    background-color: #ace4b0;
-   border: 25px solid;
+   border: 15px solid;
    border-color: #f4dddb;
    font-family: Times New Roman;
    font-size: 15pt;
