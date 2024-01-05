@@ -140,3 +140,8 @@ padding: 10px;
    margin: 0 25px;
    margin-top: 25px;
 }
+
+body {
+   background-color: #f4dddb;
+   width: 1000px;
+}
