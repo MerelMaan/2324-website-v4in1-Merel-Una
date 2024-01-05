@@ -42,3 +42,14 @@
    border-color: #aceb40;
    position: fixed;
 }
+
+#articleindex {
+   width: 900px;
+   height: 300px;
+   padding: 10px;
+   margin: 50px;
+   background-color: #f4dddb;
+   font-family: georgia;
+   font-size: 12pt;
+   color: #1f001f;
+}
