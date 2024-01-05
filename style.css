@@ -68,10 +68,13 @@ header {
    padding: 10px;
    height: 125px;
    background-color: #f4dddb;
-   text-align: center;
    font-family: georgia;
    font-size: 20pt;
    color: #33040d;
+   text-align: center;
+   align-items: center;
+   display: flex;
+   justify-content: center;
 }
 
 nav {
