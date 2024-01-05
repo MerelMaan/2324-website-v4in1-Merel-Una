@@ -132,4 +132,6 @@ display: flex;
 #indextekst img {
    width: 400px;
    height: 532px;
+   border: 4px solid;
+   border-color: #ace4b0;
 }
