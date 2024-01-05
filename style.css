@@ -38,11 +38,12 @@
 
 
 #kaneelrollen img {
-   width: 396px;
-   height: 200px;
+   width: 400px;
+   height: 532px;
    border: 2px solid;
    border-color: #ace4b0;
-   position: fixed;
+   margin: 0 25px;
+   margin-top: 25px;
 }
 
 #articleindex {
