@@ -23,7 +23,7 @@
 
 
 .cafe {
-   width: 888px;
+   width: 400px;
    margin: 50px;
    border: 10px solid;
    border-color: #ace4b0;
@@ -46,8 +46,8 @@
 }
 
 #articleindex {
-   width: 900px;
-   height: 100px;
+   width: 260px;
+   height: 500px;
    padding: 10px;
    margin: 50px;
    background-color: #f4dddb;
