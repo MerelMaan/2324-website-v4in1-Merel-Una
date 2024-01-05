@@ -154,3 +154,12 @@ body {
    margin: 0 25px;
    margin-top: 25px;
 }
+
+#tiramisu img {
+   width: 400px;
+   height: 496px;
+   border: 4px solid;
+   border-color: #ace4b0;
+   margin: 0 25px;
+   margin-top: 25px;
+}
