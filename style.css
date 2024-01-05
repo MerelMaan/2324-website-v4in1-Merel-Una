@@ -111,3 +111,9 @@ a {
    text-decoration: none;
    color: #1f001f;
 }
+
+nav a {
+   padding-left: 10px;
+   padding-right: 10px;
+   text-decoration: none;
+}
