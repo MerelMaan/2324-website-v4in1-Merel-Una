@@ -63,7 +63,8 @@
 }
 
 header {
-   width: 1000px;
+   width: 970px;
+   padding: 30px;
    height: 125px;
    background-color: #f4dddb;
    text-align: center;
