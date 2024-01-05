@@ -40,7 +40,7 @@
 #kaneelrollen {
    width: 396px;
    height: 200px;
-   border: 2px;
+   border: 2px solid;
    border-color: #aceb40;
    position: fixed;
 }
