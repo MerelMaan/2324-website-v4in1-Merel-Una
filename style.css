@@ -27,7 +27,7 @@
    margin: 50px;
    border: 10px;
    border-color: #aceb40;
-   float: center;
+   align-self: center;
 }
 
 #wrapper {
