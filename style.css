@@ -145,3 +145,12 @@ body {
    background-color: #f4dddb;
    width: 1000px;
 }
+
+#cremebrulee img {
+   width: 400px;
+   height: 532px;
+   border: 4px solid;
+   border-color: #ace4b0;
+   margin: 0 25px;
+   margin-top: 25px;
+}
