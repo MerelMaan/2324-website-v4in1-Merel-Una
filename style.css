@@ -71,7 +71,7 @@ header {
    text-align: center;
    font-family: georgia;
    font-size: 20pt;
-   text-decoration-color: #33040d;
+   color: #33040d;
 }
 
 nav {
@@ -82,7 +82,14 @@ nav {
    background-color: #f4dddb;
    font-family: georgia;
    font-size: 15pt;
-   text-decoration-color: #1f001f;
+   color: #1f001f;
    text-align: center;
    padding: 12px;
+   display: inline-block;
+   text-decoration: none;
+   line-height: 50px;
+}
+
+nav :hover {
+   color: white;
 }
