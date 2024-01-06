@@ -181,7 +181,7 @@ body {
 }
 
 #kaneelrollentekst1 p {
-   width: 250px;
+   width: 500px;
    flex-grow: 1;
    padding: 10px;
    font-size: 12pt;
