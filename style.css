@@ -169,11 +169,11 @@ body {
 
 #articlekanneelrollen1 {
    width: 200px;
-   height: 200px;
+   height: 100px;
    padding: 10px;
    font-family: georgia;
-   font-size: 15pt;
-   text-align: left;
+   font-size: 12pt;
+   text-align: center;
    color: #1F0017;
    background-color: #F4DDDB;
    flex-grow: 1;
