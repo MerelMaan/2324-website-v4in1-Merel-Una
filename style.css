@@ -219,7 +219,7 @@ body {
 }
 
 #stappenplan ol {
-line-height: 1,5;
+line-height: 2;
 color: #33040d;
 font-family: georgia;
 font-size: 12pt;
@@ -242,5 +242,5 @@ font-size: 12pt;
 }
 
 #stappenplan {
-   margin-left: 25px;
+   margin-left: 35px;
 }
