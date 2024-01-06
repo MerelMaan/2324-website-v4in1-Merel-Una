@@ -168,7 +168,7 @@ body {
 }
 
 #articlekanneelrollen1 {
-   width: 500px;
+   width: 200px;
    height: 200px;
    padding: 10px;
    font-family: georgia;
@@ -176,7 +176,8 @@ body {
    text-align: left;
    color: #1F0017;
    background-color: #F4DDDB;
-   float: left;
+   flex-grow: 1;
+   line-height: 1.5;
 }
 
 #articlekanneelrollen2 {
