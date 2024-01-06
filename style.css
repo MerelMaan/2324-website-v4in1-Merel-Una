@@ -189,5 +189,10 @@ body {
 
 }
 
+#kaneelrollen {
+   display: flex;
+  flex-grow: 1;
+}
+
 
 
