@@ -38,12 +38,13 @@
 
 
 #kaneelrollen img {
-   width: 400px;
-   height: 532px;
+   width: 396px;
+   height: 200px;
    border: 4px solid;
    border-color: #ace4b0;
    margin: 0 25px;
    margin-top: 25px;
+   float: left;
 }
 
 #articleindex {
@@ -162,4 +163,28 @@ body {
    border-color: #ace4b0;
    margin: 0 25px;
    margin-top: 25px;
+}
+
+#articlekanneelrollen1 {
+   width: 500px;
+   height: 200px;
+   padding: 10px;
+   font-family: georgia;
+   font-size: 15pt;
+   text-align: left;
+   color: #1F0017;
+   background-color: #F4DDDB;
+   float: left;
+}
+
+#articlekanneelrollen2 {
+   width: 960px;
+   height: 50px;
+   padding: 10px;
+   font-family: georgia;
+   font-size: 15pt;
+   text-align: left;
+   color: #1F0017;
+   background-color:#F4DDDB;
+   float: left;
 }
