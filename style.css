@@ -47,7 +47,7 @@
    display: flex;
 }
 
-#articleindex p {
+#articleindex  {
    width: 100px;
    height: 266px;
    padding: 10px;
