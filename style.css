@@ -47,8 +47,8 @@
    display: flex;
 }
 
-#articleindex  {
-   width: 100px;
+#articleindex p {
+   width: 300px;
    height: 266px;
    padding: 10px;
    margin: 50px;
@@ -66,6 +66,7 @@
    color:#1f001f;
    text-align: center;
    margin-bottom: 10px;
+   margin-top: 10px;
 }
 
 header {
