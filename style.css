@@ -44,6 +44,7 @@
    border-color: #ace4b0;
    margin: 0 25px;
    margin-top: 25px;
+   display: flex;
 }
 
 #articleindex {
@@ -175,6 +176,7 @@ body {
    font-family: georgia;
    color: #1f001f;
    background-color: #f4dddb;
+   display: flex;
 }
 
 #kaneelrollentekst1 {
@@ -185,6 +187,10 @@ body {
    font-family: georgia;
    color: #33040d;
    background-color: #f4dddb;
+   text-align: center;
+   align-items: center;
+   display: flex;
+   justify-content: center;
 
 }
 
