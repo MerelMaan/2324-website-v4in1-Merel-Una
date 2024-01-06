@@ -193,7 +193,6 @@ body {
 #kaneelrollen {
    display: flex;
   flex-grow: 1;
-  flex-direction: column;
 }
 
 #kaneelrollening h2{
