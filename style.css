@@ -217,3 +217,30 @@ body {
    display: flex;
    flex-direction: column;
 }
+
+#stappenplan ol {
+line-height: 1,5;
+color: #33040d;
+font-family: georgia;
+font-size: 12pt;
+}
+
+#stappenplan h2 {
+   font-family: georgia;
+   font-size: 16pt;
+   color:#1f001f;
+   text-align: center;
+   margin-top: 10px;
+   font-family: georgia;
+   color: #1f001f;
+}
+
+#stappenplan p {
+   color: #33040d;
+   font-family: georgia;
+   font-size: 12pt;
+}
+
+#stappenplan {
+   margin-left: 20px;
+}
