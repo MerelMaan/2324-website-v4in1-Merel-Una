@@ -178,13 +178,13 @@ body {
    background-color: #f4dddb;
 }
 
-#kaneelrollentekst1 {
+#kaneelrollentekst1 p {
    width: 150px;
    flex-grow: 1;
    padding: 10px;
    font-size: 12pt;
    font-family: georgia;
-   color: white;
+   color: #33040d
    background-color: #f4dddb;
 
 }
