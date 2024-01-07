@@ -356,13 +356,13 @@ body {
 #eten {
    display: flex;
    margin-bottom: 20px;
-   width: 256px;
+   width: 390px;
    flex-direction: column;
 }
 
 #eten img {
-   height: 200px;
-   width: 256px;
+   height: 300px;
+   width: 390px;
    border: 2px solid;
    border-color: #ace4b0;
    margin-right: 10px;
