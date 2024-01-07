@@ -22,13 +22,6 @@
 /************************* INDEX.HTML *************************/
 
 
-.cafe {
-   width: 400px;
-   margin: 50px;
-   border: 10px solid;
-   border-color: #ace4b0;
-   align-self: center;
-}
 
 #wrapper {
    width: 1000px;
@@ -135,6 +128,15 @@ nav a {
    margin: 0 25px;
    margin-top: 25px;
 }
+
+.cafe {
+   width: 400px;
+   margin: 50px;
+   border: 10px solid;
+   border-color: #ace4b0;
+   align-self: center;
+}
+
 
 body {
    background-color: #f4dddb;
