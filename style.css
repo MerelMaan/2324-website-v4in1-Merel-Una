@@ -202,7 +202,6 @@ body {
 #kaneelrollen {
    display: flex;
    flex-grow: 1;
-   background-color: #f4dddb;
 }
 
 #kaneelrollen h2 {
@@ -226,6 +225,7 @@ body {
 #kaneelrollentekst1 {
    display: flex;
    flex-direction: column;
+   background-color: #f4dddb;
 }
 
 #tiramisu {
