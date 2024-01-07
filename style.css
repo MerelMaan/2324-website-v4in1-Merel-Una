@@ -228,6 +228,7 @@ body {
    display: flex;
    flex-direction: column;
    background-color: #f4dddb;
+   padding-left: 50px;
 }
 
 #tiramisu {
