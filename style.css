@@ -24,18 +24,7 @@
 
 
 
-#articleindex p {
-   width: 300px;
-   height: 266px;
-   padding: 10px;
-   margin: 50px;
-   background-color: #f4dddb;
-   font-family: georgia;
-   font-size: 12pt;
-   color: #1f001f;
-   flex-grow: 1;
-   line-height: 1.5;
-}
+
 
 #articleindex h2 {
    font-family: georgia;
@@ -135,6 +124,19 @@ nav a {
    border: 10px solid;
    border-color: #ace4b0;
    align-self: center;
+}
+
+#articleindex p {
+   width: 300px;
+   height: 266px;
+   padding: 10px;
+   margin: 50px;
+   background-color: #f4dddb;
+   font-family: georgia;
+   font-size: 12pt;
+   color: #1f001f;
+   flex-grow: 1;
+   line-height: 1.5;
 }
 
 
