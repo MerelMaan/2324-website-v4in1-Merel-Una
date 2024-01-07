@@ -357,6 +357,7 @@ body {
    display: flex;
    margin-bottom: 20px;
    width: 256px;
+   flex-direction: column;
 }
 
 #eten img {
