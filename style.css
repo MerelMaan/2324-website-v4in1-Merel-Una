@@ -202,6 +202,7 @@ body {
 #kaneelrollen {
    display: flex;
    flex-grow: 1;
+   background-color: #f4dddb;
 }
 
 #kaneelrollen h2 {
