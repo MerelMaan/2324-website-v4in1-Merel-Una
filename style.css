@@ -202,6 +202,7 @@ body {
 #kaneelrollen {
    display: flex;
    flex-grow: 1;
+   background-color: #f4dddb;
 }
 
 #kaneelrollen h2 {
@@ -219,7 +220,7 @@ body {
 #kaneelrollen table {
    width: 200px;
    background-color: #f4dddb;
-   color: #ffffff;
+   color: #33040d;
 }
 
 
@@ -232,6 +233,7 @@ body {
 #tiramisu {
    display: flex;
    flex-grow: 1; 
+   background-color: #f4dddb;
 }
 
 #tiramisutekst1 h1 {
@@ -282,6 +284,7 @@ body {
 #cremebrulee {
    display: flex;
    flex-grow: 1;
+   background-color: #f4dddb;
 }
 
 #cremebruleetekst1 h1 {
@@ -353,6 +356,7 @@ body {
 
 #stappenplan {
    margin-left: 35px;
+   background-color: #f4dddb;
 }
 
 #webshop {
