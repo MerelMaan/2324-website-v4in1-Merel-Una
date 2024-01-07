@@ -358,6 +358,9 @@ body {
    margin-bottom: 20px;
    width: 256px;
    flex-direction: column;
+   margin-left: 30px;
+   margin-right: 30px;
+   margin-top: 30px;
 }
 
 #eten img {
@@ -365,9 +368,6 @@ body {
    width: 256px;
    border: 2px solid;
    border-color: #ace4b0;
-   margin-right: 30px;
-   margin-left: 30px;
-   margin-top: 30px;
 }
 
 #eten p {
