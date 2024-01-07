@@ -422,6 +422,7 @@ body {
    align-items: center;
    height: 700px;
    width: 1000px;
+   padding-right: 50px;
 }
 
 #contactfototekst {
@@ -455,8 +456,6 @@ body {
    font-family: georgia;
    color: #33040d;
    text-align: left;
-   align-items: center;
-   justify-content: center;
 }
 
 #contact1 a:hover {
