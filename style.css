@@ -414,3 +414,15 @@ body {
    line-height: 1,2;
    margin-bottom: 30px;
 }
+
+#contact {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+}
+
+#contactfototekst {
+   display: flex;
+   flex-direction: column;
+}
