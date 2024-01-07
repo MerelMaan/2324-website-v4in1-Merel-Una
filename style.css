@@ -420,9 +420,58 @@ body {
    flex-direction: row;
    justify-content: center;
    align-items: center;
+   height: 700px;
+   width: 1000px;
 }
 
 #contactfototekst {
    display: flex;
    flex-direction: column;
+   width: 260px;
+}
+
+#contact1 h1 {
+   font-size: 16pt;
+   font-family: georgia;
+   color: #1f001f;
+   width: 400px;
+}
+
+#contact1 h2 {
+   font-size: 15pt;
+   font-family: georgia;
+   color: #1f001f;
+   width: 400px;
+}
+
+#contact1 p {
+   font-size: 12pt;
+   font-family: georgia;
+   color: #33040d;
+   text-align: left;
+}
+
+#contact1 a:hover {
+   color: white;
+}
+
+#contactfototekst img {
+   border: 2px solid;
+   border-color: #ace4b0;
+   width: 260px;
+   height: 460px;
+}
+
+#contactfototekst p {
+   font-size: 12pt;
+   font-family: georgia;
+   color: #33040d;
+   text-align: center;
+}
+
+#contactfototekst h2 {
+   font-size: 15pt;
+   font-family: georgia;
+   color: #1f001f;
+   width: 260px;
 }
