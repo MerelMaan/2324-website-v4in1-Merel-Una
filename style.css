@@ -219,6 +219,56 @@ body {
    flex-direction: column;
 }
 
+#tiramisu {
+   display: flex;
+   flex-grow: 1; 
+}
+
+#tiramisutekst1 h1 {
+   font-family: georgia;
+   font-size: 16pt;
+   color: #1f001f;
+   text-align: center;
+   margin-bottom: 10px;
+   font-family: georgia;
+   color: #1f001f;
+   background-color: #f4dddb;
+   padding-top: 18px;
+}
+
+#tiramisutekst1 h2 {
+   font-family: georgia;
+   font-size: 16pt;
+   color: #1f001f;
+   text-align: center;
+   margin-bottom: 10px;
+   font-family: georgia;
+   color: #1f001f;
+   background-color: #f4dddb;
+   padding-top: 18px;
+}
+
+#tiramisu table {
+   width: 200px;
+   background-color: #ffffff;
+}
+
+#tiramisutekst1 p {
+   width: 250px;
+   flex-grow: 1;
+   padding: 10px;
+   font-size: 12pt;
+   font-family: georgia;
+   color: #33040d;
+   background-color: #f4dddb;
+}
+
+#tiramisutekst1 {
+   display: flex;
+   flex-direction: column;
+}
+
+
 #cremebrulee {
    display: flex;
    flex-grow: 1;
