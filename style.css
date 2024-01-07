@@ -422,7 +422,6 @@ body {
    align-items: center;
    height: 700px;
    width: 1000px;
-   padding-right: 50px;
 }
 
 #contactfototekst {
@@ -435,6 +434,7 @@ body {
    width: 250px;
    justify-content: center;
    align-items: center;
+   padding-right: 50px;
 }
 
 #contact1 h1 {
