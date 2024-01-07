@@ -455,7 +455,8 @@ body {
    font-size: 12pt;
    font-family: georgia;
    color: #33040d;
-   text-align: left;
+   text-align: center;
+   line-height: 1,5;
 }
 
 #contact1 a:hover {
