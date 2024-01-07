@@ -430,18 +430,22 @@ body {
    width: 260px;
 }
 
+#contact1 {
+   width: 250px;
+}
+
 #contact1 h1 {
    font-size: 16pt;
    font-family: georgia;
    color: #1f001f;
-   width: 400px;
+   width: 250px;
 }
 
 #contact1 h2 {
    font-size: 15pt;
    font-family: georgia;
    color: #1f001f;
-   width: 400px;
+   width: 250px;
 }
 
 #contact1 p {
