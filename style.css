@@ -23,13 +23,6 @@
 
 
 
-#wrapper {
-   width: 1000px;
-   margin: auto;
-   background-color: #f4dddb;
-}
-
-
 
 #articleindex p {
    width: 300px;
@@ -112,6 +105,13 @@ nav a {
    padding-right: 10px;
    text-decoration: none;
 }
+
+#wrapper {
+   width: 1000px;
+   margin: auto;
+   background-color: #f4dddb;
+}
+
 
 #indexfoto {
    display: flex;
