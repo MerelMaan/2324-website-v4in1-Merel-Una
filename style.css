@@ -203,8 +203,6 @@ body {
    display: flex;
    flex-grow: 1;
    background-color: #f4dddb;
-   align-items: center;
-   justify-content: center;
 }
 
 #kaneelrollen h2 {
