@@ -71,6 +71,11 @@ footer {
    justify-content: center;
 }
 
+footer a:hover{
+   text-decoration: wavy;
+   color: white;
+}
+
 a {
    text-decoration: none;
    color: #1f001f;
