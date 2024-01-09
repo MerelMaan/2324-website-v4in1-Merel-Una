@@ -69,7 +69,7 @@ footer {
    justify-content: left;
    align-items: center;
    display: flex;
-   padding-left: 10px;
+   margin-left: 10px;
 }
 
 footer a:hover{
