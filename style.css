@@ -181,7 +181,7 @@ body {
 }
 
 #kaneelrollentekst1 p {
-   width: 250px;
+   width: 300px;
    flex-grow: 1;
    padding: 10px;
    font-size: 12pt;
@@ -209,7 +209,7 @@ body {
 }
 
 #kaneelrollen table {
-   width: 200px;
+   width: 250px;
    background-color: white;
    color: #33040d;
 }
@@ -253,12 +253,12 @@ body {
 }
 
 #tiramisu table {
-   width: 200px;
+   width: 250px;
    background-color: #ffffff;
 }
 
 #tiramisutekst1 p {
-   width: 250px;
+   width: 300px;
    flex-grow: 1;
    padding: 10px;
    font-size: 12pt;
@@ -305,12 +305,12 @@ body {
 }
 
 #cremebrulee table {
-   width: 200px;
+   width: 250px;
    background-color: #ffffff;
 }
 
 #cremebruleetekst1 p {
-   width: 250px;
+   width: 300px;
    flex-grow: 1;
    padding: 10px;
    font-size: 12pt;
