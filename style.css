@@ -469,7 +469,7 @@ body {
    font-size: 12pt;
    font-family: georgia;
    color: #33040d;
-   text-align: left;
+   text-align: justify;
    line-height: 1,6;
 }
 
@@ -488,7 +488,7 @@ body {
    font-size: 12pt;
    font-family: georgia;
    color: #33040d;
-   text-align: center;
+   text-align: justify;
 }
 
 #contactfototekst h2 {
