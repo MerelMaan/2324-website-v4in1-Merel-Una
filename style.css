@@ -65,8 +65,8 @@ footer {
    font-family: Georgia, 'Times New Roman', Times, serif;
    font-size: 12pt;
    color: #1f001f;
-   text-align: left;
-   justify-content: left;
+   text-align: center;
+   justify-content: center;
    align-items: center;
    display: flex;
 }
