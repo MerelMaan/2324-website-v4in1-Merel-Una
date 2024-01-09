@@ -409,6 +409,7 @@ body {
    font-size: 14pt;
    font-family: georgia;
    text-align: justify;
+   padding-inline: 10px;
 }
 
 #webshoptekst {
