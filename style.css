@@ -108,13 +108,13 @@ nav a {
 
 
 #indexfoto p {
-   width: 300px;
+   width: 350px;
    height: 266px;
    padding: 10px;
    margin: 2px;
    background-color: #f4dddb;
    font-family: georgia;
-   font-size: 14pt;
+   font-size: 13pt;
    color: #1f001f;
    flex-grow: 1;
    line-height: 1.5;
