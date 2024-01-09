@@ -66,6 +66,8 @@ footer {
    font-size: 12pt;
    color: #1f001f;
    text-align: left;
+   justify-content: center;
+   align-items: center;
    display: flex;
 }
 
