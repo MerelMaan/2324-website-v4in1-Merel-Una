@@ -142,25 +142,8 @@ body {
    width: 1000px;
 }
 
-#cremebrulee img {
-   width: 400px;
-   height: 532px;
-   border: 4px solid;
-   border-color: #ace4b0;
-   margin: 0 25px;
-   margin-top: 25px;
-}
 
-#tiramisu img {
-   width: 400px;
-   height: 496px;
-   border: 4px solid;
-   border-color: #ace4b0;
-   margin: 0 25px;
-   margin-top: 25px;
-}
-
-#kaneelrollen img {
+#recepten img {
    width: 400px;
    height: 532px;
    border: 4px solid;
@@ -171,7 +154,7 @@ body {
    margin-bottom: 20px;
 }
 
-#kaneelrollentekst1 h1 {
+#receptentekst h1 {
    font-family: georgia;
    font-size: 16pt;
    color: #1f001f;
@@ -183,7 +166,7 @@ body {
    padding-top: 18px;
 }
 
-#kaneelrollentekst1 p {
+#receptentekst p {
    width: 300px;
    flex-grow: 1;
    padding: 10px;
@@ -193,7 +176,7 @@ body {
    background-color: #f4dddb;
    text-align: justify;
 }
-#kaneelrollentekst1 h2 {
+#receptentekst h2 {
    font-family: georgia;
    font-size: 16pt;
    color: #1f001f;
@@ -205,131 +188,28 @@ body {
    padding-top: 18px;
 }
 
-#kaneelrollen {
-   display: flex;
-   flex-grow: 1;
-   background-color: #f4dddb;
-}
 
-
-#kaneelrollen table {
+#recepten table {
    width: 250px;
    background-color: white;
    color: #33040d;
 }
 
 
-#kaneelrollentekst1 {
+#receptentekst {
    display: flex;
    flex-direction: column;
    background-color: #f4dddb;
    padding-left: 100px;
 }
 
-#tiramisu {
+#recepten {
    display: flex;
    flex-grow: 1; 
    background-color: #f4dddb;
 }
 
-#tiramisutekst1 h1 {
-   font-family: georgia;
-   font-size: 16pt;
-   color: #1f001f;
-   text-align: center;
-   margin-bottom: 10px;
-   font-family: georgia;
-   color: #1f001f;
-   background-color: #f4dddb;
-   padding-top: 18px;
-}
 
-#tiramisutekst1 h2 {
-   font-family: georgia;
-   font-size: 16pt;
-   color: #1f001f;
-   text-align: center;
-   margin-bottom: 10px;
-   font-family: georgia;
-   color: #1f001f;
-   background-color: #f4dddb;
-   padding-top: 18px;
-}
-
-#tiramisu table {
-   width: 250px;
-   background-color: #ffffff;
-}
-
-#tiramisutekst1 p {
-   width: 300px;
-   flex-grow: 1;
-   padding: 10px;
-   font-size: 12pt;
-   font-family: georgia;
-   color: #33040d;
-   background-color: #f4dddb;
-   text-align: justify;
-}
-
-#tiramisutekst1 {
-   display: flex;
-   flex-direction: column;
-   padding-left: 100px;
-}
-
-
-#cremebrulee {
-   display: flex;
-   flex-grow: 1;
-   background-color: #f4dddb;
-}
-
-#cremebruleetekst1 h1 {
-   font-family: georgia;
-   font-size: 16pt;
-   color: #1f001f;
-   text-align: center;
-   margin-bottom: 10px;
-   font-family: georgia;
-   color: #1f001f;
-   background-color: #f4dddb;
-   padding-top: 18px;
-}
-
-#cremebruleetekst1 h2 {
-   font-family: georgia;
-   font-size: 16pt;
-   color: #1f001f;
-   text-align: center;
-   margin-bottom: 10px;
-   font-family: georgia;
-   color: #1f001f;
-   background-color: #f4dddb;
-   padding-top: 18px;
-}
-
-#cremebrulee table {
-   width: 250px;
-   background-color: #ffffff;
-}
-
-#cremebruleetekst1 p {
-   width: 300px;
-   flex-grow: 1;
-   padding: 10px;
-   font-size: 12pt;
-   font-family: georgia;
-   color: #33040d;
-   background-color: #f4dddb;
-   text-align: justify;
-}
-
-#cremebruleetekst1 {
-   display: flex;
-   flex-direction: column;
-   padding-left: 100px;
-}
 
 #stappenplan ol {
    line-height: 2;
@@ -371,7 +251,7 @@ body {
 
 #eten {
    display: flex;
-   margin-bottom: 20px;
+   margin: 25px;
    width: 200px;
    flex-direction: column;
    margin-left: 30px;
@@ -499,3 +379,4 @@ body {
    width: 260px;
    text-align: center;
 }
+/* float: wij hebben geen float maar flexboxen gebruikt, omdat we daar meer mee kunnen.
