@@ -98,7 +98,7 @@ nav a {
 #indexfoto {
    display: flex;
    flex-grow: 1;
-   padding: 10px;
+   padding-inline: 10px;
 }
 
 #indexfoto img {
