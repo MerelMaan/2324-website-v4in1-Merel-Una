@@ -87,6 +87,11 @@ nav a {
    text-decoration: none;
 }
 
+body {
+   background-color: white;
+   width: 100%;
+}
+
 
 #wrapper {
    width: 1000px;
@@ -135,12 +140,6 @@ nav a {
    padding-top: 15px;
 }
 
-
-
-body {
-   background-color: white;
-   width: 100%;
-}
 
 
 #recepten img {
