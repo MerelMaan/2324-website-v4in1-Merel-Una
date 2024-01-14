@@ -71,7 +71,7 @@ footer {
    display: flex;
 }
 
-footer a:hover{
+footer a:hover {
    color: white;
 }
 
@@ -175,6 +175,7 @@ body {
    background-color: #f4dddb;
    text-align: justify;
 }
+
 #receptentekst h2 {
    font-family: georgia;
    font-size: 16pt;
@@ -204,7 +205,7 @@ body {
 
 #recepten {
    display: flex;
-   flex-grow: 1; 
+   flex-grow: 1;
    background-color: #f4dddb;
 }
 
@@ -298,12 +299,12 @@ body {
 #webshoptekst {
    width: 1000px;
    height: 100px;
-   line-height: 1,2;
+   line-height: 1, 2;
    margin-bottom: 30px;
 }
 
 #eten a:hover {
-   color:#ffffff;
+   color: #ffffff;
 }
 
 #contact {
@@ -349,7 +350,7 @@ body {
    font-family: georgia;
    color: #33040d;
    text-align: justify;
-   line-height: 1,6;
+   line-height: 1, 6;
 }
 
 #contact1 a:hover {
@@ -377,4 +378,5 @@ body {
    width: 260px;
    text-align: center;
 }
+
 /* float: wij hebben geen float maar flexboxen gebruikt, omdat we daar meer mee kunnen.
