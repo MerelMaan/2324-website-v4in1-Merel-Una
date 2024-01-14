@@ -35,6 +35,10 @@ header {
    justify-content: center;
 }
 
+header a:hover {
+   color: white;
+}
+
 nav {
    width: 996px;
    height: 75px;
